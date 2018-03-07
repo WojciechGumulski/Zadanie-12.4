@@ -1,0 +1,20 @@
+body {
+	text-align: center;
+	background-image: url(https://s3.amazonaws.com/mf-cnorris/assets/uploads/2016/10/19123509/timeline-05.jpg);
+	background-repeat: no-repeat;
+}
+
+#get-joke {
+	margin-top: 50px;
+	background-color: green;
+	color: white;
+	font-size: 15px;
+}
+
+#joke {
+	font-size: 20px;
+	color: green;
+	max-width: 800px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
